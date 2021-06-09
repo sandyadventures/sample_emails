@@ -1,2 +1,4 @@
-# sample_emails
-Sample HTML - responsive emails
+# sample_HTML_emails
+A sample of responsive email templates
+
+-Sandy Hamlett
